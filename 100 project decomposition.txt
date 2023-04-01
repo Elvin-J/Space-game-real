@@ -1,0 +1,15 @@
+100 project decomposition
+1.background - moving it towards left
+2.fighter jet - will have gravity, to stay up = up arrow, 
+3. fighter jet emits laser to  right
+4.createasteroid - keep spawning on right side, have speed to left, 
+6.scoreboard - count of succesful hits
+5.when laser touches asteroid it is destroyed
+
+7.if succesful hit = 100, you win/ winning pop-up
+
+8.fighter jet touches asteroid = gameover , and falls to ground = gameover
+8b = sound effects = space ambience(bg), laser shot, asteroid destoyed
+9. addons - fuel tanks - when touches jet refills jet 
+10. addons - timer - 60 seconds and if it runs out gameover
+
